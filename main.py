@@ -22,7 +22,7 @@ from urllib.parse import urljoin
 urllib3.disable_warnings()
 
 # ============ CONFIG ============
-WEBHOOK = "https://discord.com/api/webhooks/1558337619685937195/P8zObYw7KbkMrt3ayq-cArc-rDOkoLDQ7qbEvWwLPDY5ux6NExI4Oa9VU_Q_1W3Up4Bu"
+WEBHOOK = "" # your discord webhook
 OUT = "results"
 THREADS = 20
 TIMEOUT = 15
